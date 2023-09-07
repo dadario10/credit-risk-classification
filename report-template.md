@@ -2,8 +2,6 @@
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
 ### Explain the purpose of the analysis.
  - the purpose of this analysis is to assess the risk, either healthy or high risk, of providing clients with loans
 
