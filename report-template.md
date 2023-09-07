@@ -29,11 +29,11 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 ### Machine Learning Model 1:
    - Accuracy: 0.9918489475856377
    - Precision: 
-    - Healthy 1.00
-    - High risk 0.85
+       - Healthy 1.00
+       - High risk 0.85
    - Recall: 
-    - Healthy 0.99
-    - High risk 0.91
+       - Healthy 0.99
+       - High risk 0.91
 
 ### Machine Learning Model 2:
    - Accuracy: 0.9947308560359689
