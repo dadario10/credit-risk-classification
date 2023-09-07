@@ -5,7 +5,7 @@
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 * Explain the purpose of the analysis.
- - the purpose of this analysis is to assess the risk, either healthy or high risk, of providing clients with loans
+  - the purpose of this analysis is to assess the risk, either healthy or high risk, of providing clients with loans
 
 * Explain what financial information the data was on, and what you needed to predict.
  - the data is based on loan size, interest rates, borrower income, debt to income ration, number of accounts per customer, derogatory marks, total debt, and loan status.
